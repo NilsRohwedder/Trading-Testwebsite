@@ -1,0 +1,119 @@
+
+
+
+body{
+    margin: 60px;
+    background-image: url(./Bilder/Screenshot_1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    
+}
+h1{
+    text-decoration-line: underline;
+    text-align: center;
+    border: 5px solid rgb(11, 11, 245);
+    margin-bottom: 50px;
+    background-color:rgb(29, 188, 241)
+     ;
+}
+.rechts {
+    text-align: center;
+}
+.Brechts {
+    text-align: center;
+
+}
+
+.Text{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Trading{
+    text-align: center;
+    width: 50%;
+    margin:0 auto
+}
+.Kinder{
+    font-size: 40px;
+    text-shadow: 5px 5px 10px;
+    
+
+}
+h9{
+    font-size: larger;
+    color: blue;
+    
+}
+
+.a2{
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    padding-top: 30px;
+    align-items: center;
+}
+.body2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+}
+.Oben{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Kopf{
+    padding: 50px;
+    background-color: lightblue;
+    height: 100px;
+    border-bottom: 10px solid;
+    background-image: url(./Bilder/FTMO_logo-1-1024x298.png);
+}
+.Kopf, .Kopf ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.Kopf ul{
+    list-style: none;;
+    gap: 30px;
+    margin-top: auto;
+    line-height: 0%;
+    width: 100px;
+    }
+
+.FTMO{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid black;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+}
+h4{
+    text-align: center;
+    font-size: 100px;
+}
+.Go{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+h7{
+    font-size: 25px;
+    color: blue;
+}
+.alles{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
